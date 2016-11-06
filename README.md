@@ -18,3 +18,6 @@ C.  run_analysis.R - the script that performs the following steps:
 9.  Adds the descriptive variable names	
 10. Creates a second independent tidy data set with the average	
 D.  Tidy.txt- the result file from the run_analysis.R script	
+
+
+
